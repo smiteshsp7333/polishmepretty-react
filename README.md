@@ -64,7 +64,7 @@ npm run dev
 
 Then open:
 
-http://localhost:8080
+https://polishmepretty-react-o231r8gj7-smiteshpokharkar.vercel.app
 
 📸 Screenshots
 
@@ -88,7 +88,7 @@ Performance enhancements
 👨‍💻 Author
 
 Smitesh Pokharkar
-Frontend Developer | React | TypeScript | UI/UX
+Full Stack Developer | React | TypeScript | UI/UX
 
 📄 License
 
